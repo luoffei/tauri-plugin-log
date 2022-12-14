@@ -13,7 +13,7 @@ byte-unit = "4.0"
 fern = "0.6"
 log = { version = "0.4", features = ["kv_unstable"] }
 time = { version = "0.3", features = ["formatting"] }
-tauri = { git = "https://github.com/luoffei/tauri.git", branch = "1.2.1"}
+tauri = { git = "https://github.com/luoffei/tauri.git", branch = "1.2.2"}
 
 [features]
 colored = ["fern/colored"]
